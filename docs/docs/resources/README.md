@@ -6,4 +6,3 @@ Downloadable materials:
 
 # Test image
 ![Preparation](resources/1_Preparation.jpg)
-
